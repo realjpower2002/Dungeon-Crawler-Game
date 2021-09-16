@@ -1,3 +1,74 @@
 ﻿  main.cpp
-C:\Users\Owner\source\repos\Project2\Project2\main.cpp(21,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Project2.vcxproj -> C:\Users\Owner\source\repos\Project2\Debug\Project2.exe
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(36,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(61,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(77,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(120,8): error C2065: 'startingRow': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(120,21): error C2065: 'startingColumn': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(122,8): error C2065: 'startingRow': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(122,25): error C2065: 'startingColumn': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(123,8): error C2065: 'startingRow': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(123,25): error C2065: 'startingColumn': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(125,8): error C2065: 'startingRow': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(125,21): error C2065: 'startingColumn': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(126,8): error C2065: 'startingRow': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(126,21): error C2065: 'startingColumn': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(128,22): error C2065: 'startingRow': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(128,39): error C2065: 'startingColumn': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(128,55): error C2065: 'startingRow': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(128,68): error C2065: 'startingColumn': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(129,12): error C2065: 'startingRow': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(129,29): error C2065: 'startingColumn': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(130,23): error C2065: 'startingRow': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(130,40): error C2065: 'startingColumn': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(130,60): error C2065: 'startingRow': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(130,77): error C2065: 'startingColumn': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(131,23): error C2065: 'startingRow': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(131,40): error C2065: 'startingColumn': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(131,60): error C2065: 'startingRow': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(131,77): error C2065: 'startingColumn': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(134,22): error C2065: 'startingRow': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(134,39): error C2065: 'startingColumn': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(134,55): error C2065: 'startingRow': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(134,68): error C2065: 'startingColumn': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(135,16): error C2065: 'startingRow': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(135,33): error C2065: 'startingColumn': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(136,27): error C2065: 'startingRow': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(136,44): error C2065: 'startingColumn': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(136,68): error C2065: 'startingRow': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(136,85): error C2065: 'startingColumn': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(137,27): error C2065: 'startingRow': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(137,44): error C2065: 'startingColumn': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(137,68): error C2065: 'startingRow': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(137,85): error C2065: 'startingColumn': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(140,22): error C2065: 'startingRow': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(140,35): error C2065: 'startingColumn': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(140,55): error C2065: 'startingRow': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(140,68): error C2065: 'startingColumn': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(141,12): error C2065: 'startingRow': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(141,27): error C2065: 'startingColumn': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(142,23): error C2065: 'startingRow': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(142,44): error C2065: 'startingColumn': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(142,64): error C2065: 'startingRow': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(142,85): error C2065: 'startingColumn': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(142,103): error C2660: 'convertTiles': function does not take 1 arguments
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(19,6): message : see declaration of 'convertTiles'
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(143,23): error C2065: 'startingRow': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(143,44): error C2065: 'startingColumn': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(143,64): error C2065: 'startingRow': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(143,85): error C2065: 'startingColumn': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(143,103): error C2660: 'convertTiles': function does not take 1 arguments
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(19,6): message : see declaration of 'convertTiles'
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(146,22): error C2065: 'startingRow': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(146,35): error C2065: 'startingColumn': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(146,55): error C2065: 'startingRow': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(146,68): error C2065: 'startingColumn': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(147,12): error C2065: 'startingRow': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(147,29): error C2065: 'startingColumn': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(148,23): error C2065: 'startingRow': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(148,40): error C2065: 'startingColumn': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(148,60): error C2065: 'startingRow': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(148,77): error C2065: 'startingColumn': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(149,23): error C2065: 'startingRow': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(149,40): error C2065: 'startingColumn': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(149,60): error C2065: 'startingRow': undeclared identifier
+C:\Users\Owner\source\repos\Project2\Project2\main.cpp(149,77): error C2065: 'startingColumn': undeclared identifier
